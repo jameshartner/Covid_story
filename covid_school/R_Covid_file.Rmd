@@ -40,7 +40,7 @@ Anne_Arundel_County <- covid_data %>%
   ) %>%
  arrange(desc(total_cases)) %>%
 print(Anne_Arundel_County)
-Balitmore_County <- covid_data %>%
+Baltimore_County <- covid_data %>%
     filter(CountyReport=='Baltimore') %>%
    group_by(School) %>%
   summarize(
@@ -259,3 +259,109 @@ all_county <- covid_data %>%
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+```{r}
+all_counties <-all_county %>%
+  head(10)
+all_counties%>%
+  ggplot() +
+  geom_bar(aes(x=reorder(CountyReport,total_cases), weight=total_cases))+
+  coord_flip() +
+   labs(
+    title= "All Counties",
+    y = "Total Cases",
+    x= "Counties"
+  )
+
+
+Baltimore_County %>%
+  head(10) %>%
+  ggplot() +
+  geom_bar(aes(x=reorder(School,total_cases), weight=total_cases))+
+  coord_flip() +
+  labs(
+    title= "Baltimore County",
+    y = "Total Cases",
+    x= "Schools"
+  )
+St_Marys_County %>%
+  head(10) %>%
+  ggplot() +
+  geom_bar(aes(x=reorder(School,total_cases), weight=total_cases))+
+  coord_flip() +
+  labs(
+    title= "St. Mary's County",
+    y = "Total Cases",
+    x= "Schools"
+  )
+Washington_County %>%
+  head(10) %>%
+  ggplot() +
+  geom_bar(aes(x=reorder(School,total_cases), weight=total_cases))+
+  coord_flip() +
+  labs(
+    title= "Washington County",
+    y = "Total Cases",
+    x= "Schools"
+  )
+  
+Anne_Arundel_County %>%
+  head(10) %>%
+  ggplot() +
+  geom_bar(aes(x=reorder(School,total_cases), weight=total_cases))+
+  coord_flip() +
+  labs(
+    title= "Anne Arundel County",
+    y = "Total Cases",
+    x= "Schools"
+  )
+Frederick_County %>%
+  head(10) %>%
+  ggplot() +
+  geom_bar(aes(x=reorder(School,total_cases), weight=total_cases))+
+  coord_flip() +
+  labs(
+    title= "Frederick County",
+    y = "Total Cases",
+    x= "Schools"
+  )
+Allegany_county %>%
+  head(10) %>%
+  ggplot() +
+  geom_bar(aes(x=reorder(School,total_cases), weight=total_cases))+
+  coord_flip() +
+  labs(
+    title= "Allegany County",
+    y = "Total Cases",
+    x= "Schools"
+  )
+Howard_County %>%
+  head(10) %>%
+  ggplot() +
+  geom_bar(aes(x=reorder(School,total_cases), weight=total_cases))+
+  coord_flip() +
+  labs(
+    title= "Howard County",
+    y = "Total Cases",
+    x= "Schools"
+  )
+Somerset_County %>%
+  head(10) %>%
+  ggplot() +
+  geom_bar(aes(x=reorder(School,total_cases), weight=total_cases))+
+  coord_flip() +
+  labs(
+    title= "Sommerset County",
+    y = "Total Cases",
+    x= "Schools"
+  )
+Montgomery_County %>%
+  head(10) %>%
+  ggplot() +
+  geom_bar(aes(x=reorder(School,total_cases), weight=total_cases))+
+  coord_flip() +
+  labs(
+    title= "Somerset County",
+    y = "Total Cases",
+    x= "Schools"
+  )
+```
