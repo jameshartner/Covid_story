@@ -1,7 +1,7 @@
 ---
 title: "COVID_SCHOOL_DATA"
 author: "James Hartner"
-date: "10/19/2021"
+date: "10/20/2021"
 output: html_document
 ---
 
@@ -21,348 +21,54 @@ You can also embed plots, for example:
 
 ```{r}
 covid_data<-read_csv("data/SchoolOutbreaks_cleanedv2.csv") 
+update <-read_csv("data/Update_Oct_27.csv")
 
-Allegany_county<-covid_data %>%
-  filter(CountyReport=='Allegany') %>%
-   group_by(School) %>%
-  summarize(
-    count=n(),
-    total_cases=sum(Number_of_Total_Cases)
-  ) %>%
- arrange(desc(total_cases)) %>%
-print(Allegany_County)
-Anne_Arundel_County <- covid_data %>%
-    filter(CountyReport=='Anne Arundel') %>%
-   group_by(School) %>%
-  summarize(
-    count=n(),
-    total_cases=sum(Number_of_Total_Cases)
-  ) %>%
- arrange(desc(total_cases)) %>%
-print(Anne_Arundel_County)
-Baltimore_County <- covid_data %>%
-    filter(CountyReport=='Baltimore') %>%
-   group_by(School) %>%
-  summarize(
-    count=n(),
-    total_cases=sum(Number_of_Total_Cases)
-  ) %>%
- arrange(desc(total_cases)) %>%
-print(Baltimore_County)
-
-Baltimore_city <- covid_data %>%
-    filter(CountyReport=='Baltimore City') %>%
-   group_by(School) %>%
-  summarize(
-    count=n(),
-    total_cases=sum(Number_of_Total_Cases)
-  ) %>%
- arrange(desc(total_cases)) %>%
-print(Baltimore_city)
-
-Calvert_County <- covid_data %>%
-    filter(CountyReport=='Calvert') %>%
-   group_by(School) %>%
-  summarize(
-    count=n(),
-    total_cases=sum(Number_of_Total_Cases)
-  ) %>%
- arrange(desc(total_cases)) %>%
-print(Calvert_County)
-
-Caroline_County <- covid_data %>%
-    filter(CountyReport=='Caroline') %>%
-   group_by(School) %>%
-  summarize(
-    count=n(),
-    total_cases=sum(Number_of_Total_Cases)
-  ) %>%
- arrange(desc(total_cases)) %>%
-print(Cecil_County)
-Anne_Arundel_County <- covid_data %>%
-    filter(CountyReport=='Cecil') %>%
-   group_by(School) %>%
-  summarize(
-    count=n(),
-    total_cases=sum(Number_of_Total_Cases)
-  ) %>%
- arrange(desc(total_cases)) %>%
-print(Cecil_county)
-
-Charles_County <- covid_data %>%
-    filter(CountyReport=='Charles') %>%
-   group_by(School) %>%
-  summarize(
-    count=n(),
-    total_cases=sum(Number_of_Total_Cases)
-  ) %>%
- arrange(desc(total_cases)) %>%
-print(Charles_County)
-
-Dorchester_County <- covid_data %>%
-    filter(CountyReport=='Dorchester') %>%
-   group_by(School) %>%
-  summarize(
-    count=n(),
-    total_cases=sum(Number_of_Total_Cases)
-  ) %>%
- arrange(desc(total_cases)) %>%
-print(Dorchester_County)
-
-Garrett_County <- covid_data %>%
-    filter(CountyReport=='Garrett') %>%
-   group_by(School) %>%
-  summarize(
-    count=n(),
-    total_cases=sum(Number_of_Total_Cases)
-  ) %>%
- arrange(desc(total_cases)) %>%
-print(Garrett_County)
-
-Harford_County <- covid_data %>%
-    filter(CountyReport=='Harford') %>%
-   group_by(School) %>%
-  summarize(
-    count=n(),
-    total_cases=sum(Number_of_Total_Cases)
-  ) %>%
- arrange(desc(total_cases)) %>%
-print(Harford_County)
-
-Howard_County <- covid_data %>%
-    filter(CountyReport=='Howard') %>%
-   group_by(School) %>%
-  summarize(
-    count=n(),
-    total_cases=sum(Number_of_Total_Cases)
-  ) %>%
- arrange(desc(total_cases)) %>%
-print(Howard_County)
-Kent_County <- covid_data %>%
-    filter(CountyReport== 'Kent') %>%
-   group_by(School) %>%
-  summarize(
-    count=n(),
-    total_cases=sum(Number_of_Total_Cases)
-  ) %>%
- arrange(desc(total_cases)) %>%
-print(Kent_County)
-Montgomery_County <- covid_data %>%
-    filter(CountyReport=='Montgomery') %>%
-   group_by(School) %>%
-  summarize(
-    count=n(),
-    total_cases=sum(Number_of_Total_Cases)
-  ) %>%
- arrange(desc(total_cases)) %>%
-print(Montgomery_County)
-
-Prince_Georges_County <- covid_data %>%
-    filter(CountyReport=="Prince George's") %>%
-   group_by(School) %>%
-  summarize(
-    count=n(),
-    total_cases=sum(Number_of_Total_Cases)
-  ) %>%
- arrange(desc(total_cases)) %>%
-print(Prince_Georges_County)
-Queen_Annes_County <- covid_data %>%
-    filter(CountyReport=="Queen Anne's") %>%
-   group_by(School) %>%
-  summarize(
-    count=n(),
-    total_cases=sum(Number_of_Total_Cases)
-  ) %>%
- arrange(desc(total_cases)) %>%
-print(Queen_Annes_County)
-
-St_Marys_County <- covid_data %>%
-    filter(CountyReport== "St. Mary's") %>%
-   group_by(School) %>%
-  summarize(
-    count=n(),
-    total_cases=sum(Number_of_Total_Cases)
-  ) %>%
- arrange(desc(total_cases)) %>%
-print(St_Marys_County)
-Somerset_County <- covid_data %>%
-    filter(CountyReport=='Somerset') %>%
-   group_by(School) %>%
-  summarize(
-    count=n(),
-    total_cases=sum(Number_of_Total_Cases)
-  ) %>%
- arrange(desc(total_cases)) %>%
-print(Sommerset_County)
-Talbot_County <- covid_data %>%
-    filter(CountyReport=='Talbot') %>%
-   group_by(School) %>%
-  summarize(
-    count=n(),
-    total_cases=sum(Number_of_Total_Cases)
-  ) %>%
- arrange(desc(total_cases)) %>%
-print(Talbot_County)
-Washington_County <- covid_data %>%
-    filter(CountyReport=='Washington') %>%
-   group_by(School) %>%
-  summarize(
-    count=n(),
-    total_cases=sum(Number_of_Total_Cases)
-  ) %>%
- arrange(desc(total_cases)) %>%
-print(Washington_County)
-Wicomico_County <- covid_data %>%
-    filter(CountyReport=='Wicomico') %>%
-   group_by(School) %>%
-  summarize(
-    count=n(),
-    total_cases=sum(Number_of_Total_Cases)
-  ) %>%
- arrange(desc(total_cases)) %>%
-print(Wicomico_County)
-Worcester_County <- covid_data %>%
-    filter(CountyReport=='Worcester') %>%
-   group_by(School) %>%
-  summarize(
-    count=n(),
-    total_cases=sum(Number_of_Total_Cases)
-  ) %>%
- arrange(desc(total_cases)) %>%
-print(Worcester_County)
-Frederick_County <- covid_data %>%
-  filter(CountyReport=='Frederick') %>%
-  mutate(School=str_to_title(School)) %>%
-   mutate(School= case_when(str_detect(School,"Catocin Highschool|Catocin High School") ~"Catocin", TRUE~School)) %>%
-  group_by(School) %>%
-  summarize(
-    count=n(),
-    total_cases=sum(Number_of_Total_Cases)
-  ) %>%
-  arrange(desc(total_cases)) %>%
-print(Frederick_County)
-Carroll_County <- covid_data %>%
-  filter(CountyReport=='Carroll') %>%
-   group_by(School) %>%
-  summarize(
-    count=n(),
-    total_cases=sum(Number_of_Total_Cases)
-  ) %>%
-  arrange(desc(total_cases)) %>%
-print(Carroll_County)
-all_county <- covid_data %>%
-  group_by(CountyReport) %>%
-  summarize(
-    total_cases=sum(Number_of_Total_Cases)
-  ) %>%
-  arrange(desc(total_cases))
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
 ```{r}
-all_counties <-all_county %>%
-  head(10)
-all_counties%>%
-  ggplot() +
-  geom_bar(aes(x=reorder(CountyReport,total_cases), weight=total_cases))+
-  coord_flip() +
-   labs(
-    title= "All Counties",
-    y = "Total Cases",
-    x= "Counties"
-  )
 
+list_of_counties <- update %>%
+  distinct(CountyReport) %>%
+  arrange(CountyReport) %>%
+  as_vector()
+ 
+#list_of_counties <- list_of_counties[1]
 
-Baltimore_County %>%
-  head(10) %>%
-  ggplot() +
-  geom_bar(aes(x=reorder(School,total_cases), weight=total_cases))+
-  coord_flip() +
-  labs(
-    title= "Baltimore County",
-    y = "Total Cases",
-    x= "Schools"
-  )
-St_Marys_County %>%
-  head(10) %>%
-  ggplot() +
-  geom_bar(aes(x=reorder(School,total_cases), weight=total_cases))+
-  coord_flip() +
-  labs(
-    title= "St. Mary's County",
-    y = "Total Cases",
-    x= "Schools"
-  )
-Washington_County %>%
-  head(10) %>%
-  ggplot() +
-  geom_bar(aes(x=reorder(School,total_cases), weight=total_cases))+
-  coord_flip() +
-  labs(
-    title= "Washington County",
-    y = "Total Cases",
-    x= "Schools"
-  )
+for (county in list_of_counties) {
+ # print(county)
   
-Anne_Arundel_County %>%
-  head(10) %>%
-  ggplot() +
-  geom_bar(aes(x=reorder(School,total_cases), weight=total_cases))+
-  coord_flip() +
-  labs(
-    title= "Anne Arundel County",
-    y = "Total Cases",
-    x= "Schools"
-  )
-Frederick_County %>%
-  head(10) %>%
-  ggplot() +
-  geom_bar(aes(x=reorder(School,total_cases), weight=total_cases))+
-  coord_flip() +
-  labs(
-    title= "Frederick County",
-    y = "Total Cases",
-    x= "Schools"
-  )
-Allegany_county %>%
-  head(10) %>%
-  ggplot() +
-  geom_bar(aes(x=reorder(School,total_cases), weight=total_cases))+
-  coord_flip() +
-  labs(
-    title= "Allegany County",
-    y = "Total Cases",
-    x= "Schools"
-  )
-Howard_County %>%
-  head(10) %>%
-  ggplot() +
-  geom_bar(aes(x=reorder(School,total_cases), weight=total_cases))+
-  coord_flip() +
-  labs(
-    title= "Howard County",
-    y = "Total Cases",
-    x= "Schools"
-  )
-Somerset_County %>%
-  head(10) %>%
-  ggplot() +
-  geom_bar(aes(x=reorder(School,total_cases), weight=total_cases))+
-  coord_flip() +
-  labs(
-    title= "Sommerset County",
-    y = "Total Cases",
-    x= "Schools"
-  )
-Montgomery_County %>%
-  head(10) %>%
-  ggplot() +
-  geom_bar(aes(x=reorder(School,total_cases), weight=total_cases))+
-  coord_flip() +
-  labs(
-    title= "Somerset County",
-    y = "Total Cases",
-    x= "Schools"
-  )
+  county_chart <- update %>%
+    filter(CountyReport==county) %>%
+    group_by(School) %>%
+    summarize(
+      count=n(),
+      total_cases=sum(Number_of_Total_Cases)
+    ) %>%
+    arrange(desc(total_cases)) %>%
+    head(10) %>%
+    ggplot() +
+    geom_bar(aes(x=reorder(School,total_cases), weight=total_cases))+
+    coord_flip() +
+    labs(
+      title= county,
+      y = "Total Cases",
+      x= "Schools"
+    )  
+  
+  plot(county_chart)
+    
+}
 
 ```
+
+
+
+
+
+
+
+
+
+
