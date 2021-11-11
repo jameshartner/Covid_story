@@ -1,0 +1,832 @@
+OBJECTID,School,CountyReport,Number_of_Total_Cases,ReportDate,Time
+1479,Butterfly Ridge Elementary School,Frederick,2,8/25/2021,15:00:00+00
+1480,Century High School,Carroll,2,8/25/2021,15:00:00+00
+1481,Gerstell Academy,Carroll,2,8/25/2021,15:00:00+00
+1482,Hillcrest Elementary School,Frederick,2,8/25/2021,15:00:00+00
+1483,Lewistown Elementary School,Frederick,3,8/25/2021,15:00:00+00
+1484,Maryland School for the Blind,Baltimore City,2,8/25/2021,15:00:00+00
+1485,Orchard Grove Elementary School,Frederick,2,8/25/2021,15:00:00+00
+1486,Parkside High School,Wicomico,2,8/25/2021,15:00:00+00
+1487,Quince Orchard High School,Montgomery,24,8/25/2021,15:00:00+00
+1488,Reginald F. Lewis High School,Baltimore City,2,8/25/2021,15:00:00+00
+1489,South Carroll High School,Carroll,2,8/25/2021,15:00:00+00
+1490,Steven Decatur High School,Worcester,2,8/25/2021,15:00:00+00
+1491,Success Program,Frederick,2,8/25/2021,15:00:00+00
+1492,Tuscarora Elementary School,Frederick,2,8/25/2021,15:00:00+00
+1493,Tuscarora High School,Frederick,4,8/25/2021,15:00:00+00
+1494,Wicomico Day School,Wicomico,2,8/25/2021,15:00:00+00
+1495,Wicomico High School,Wicomico,2,8/25/2021,15:00:00+00
+1496,Winfield Elementary School,Carroll,3,8/25/2021,15:00:00+00
+1497,Atholton Adventist Academy,Howard,2,9/1/2021,15:00:00+00
+1498,Bullis School - Football Team,Montgomery,3,9/1/2021,15:00:00+00
+1499,Butterfly Ridge Elementary School,Frederick,2,9/1/2021,15:00:00+00
+1500,Carroll Manor Elementary School,Frederick,3,9/1/2021,15:00:00+00
+1501,Century High School,Carroll,5,9/1/2021,15:00:00+00
+1502,Chopticon High School,St. Mary's,6,9/1/2021,15:00:00+00
+1503,Damascus High School,Montgomery,2,9/1/2021,15:00:00+00
+1504,Dr. Henry A. Wise Jr. High School,Prince George's,4,9/1/2021,15:00:00+00
+1505,Frederick Christian Academy,Frederick,4,9/1/2021,15:00:00+00
+1506,Friends School,Baltimore City,2,9/1/2021,15:00:00+00
+1507,Gerstell Academy,Carroll,2,9/1/2021,15:00:00+00
+1508,Hancock Middle-Senior High School,Washington,3,9/1/2021,15:00:00+00
+1509,Hillcrest Elementary School,Frederick,2,9/1/2021,15:00:00+00
+1510,John L Gildner - RICA,Montgomery,2,9/1/2021,15:00:00+00
+1511,Lewistown Elementary School,Frederick,5,9/1/2021,15:00:00+00
+1512,Lillie May Jackson Charter Public School,Baltimore City,13,9/1/2021,15:00:00+00
+1513,Marriotts Ridge High School,Howard,4,9/1/2021,15:00:00+00
+1514,Monocacy Valley Montessori Public Charter School,Frederick,2,9/1/2021,15:00:00+00
+1515,Orchard Grove Elementary School,Frederick,2,9/1/2021,15:00:00+00
+1516,Parkside High School,Wicomico,4,9/1/2021,15:00:00+00
+1517,Potomac High School,Prince George's,2,9/1/2021,15:00:00+00
+1518,Quince Orchard High School,Montgomery,25,9/1/2021,15:00:00+00
+1519,Reid Temple Academy,Prince George's,3,9/1/2021,15:00:00+00
+1520,Seneca Valley High School,Montgomery,2,9/1/2021,15:00:00+00
+1521,South Carroll High School,Carroll,3,9/1/2021,15:00:00+00
+1522,St. John's School,St. Mary's,3,9/1/2021,15:00:00+00
+1523,Steven Decatur High School,Worcester,4,9/1/2021,15:00:00+00
+1524,Success Program,Frederick,2,9/1/2021,15:00:00+00
+1525,Thurmont Middle School,Frederick,2,9/1/2021,15:00:00+00
+1526,Tuscarora Elementary School,Frederick,2,9/1/2021,15:00:00+00
+1527,Tuscarora High School,Frederick,5,9/1/2021,15:00:00+00
+1528,Walkersville High School,Frederick,3,9/1/2021,15:00:00+00
+1529,Westminster High School,Carroll,2,9/1/2021,15:00:00+00
+1530,Wicomico Day School,Wicomico,3,9/1/2021,15:00:00+00
+1583,Allegany High School,Allegany,4,9/8/2021,15:00:00+00
+1584,Archbishop Neale School,Charles,2,9/8/2021,15:00:00+00
+1585,Arundel Christian School,Anne Arundel,4,9/8/2021,15:00:00+00
+1586,Atholton Adventist Academy,Howard,2,9/8/2021,15:00:00+00
+1587,Ballenger Creek Middle School,Frederick,4,9/8/2021,15:00:00+00
+1588,Blue Heron Elementary School,Frederick,2,9/8/2021,15:00:00+00
+1589,Bohemia Manor High School,Cecil,3,9/8/2021,15:00:00+00
+1590,Braddock Middle School,Allegany,2,9/8/2021,15:00:00+00
+1591,Broadfording Christian Academy,Washington,2,9/8/2021,15:00:00+00
+1592,Brunswick High School,Frederick,2,9/8/2021,15:00:00+00
+1593,Burning Tree Elementary School,Montgomery,2,9/8/2021,15:00:00+00
+1594,C. Milton Wright High School,Harford,3,9/8/2021,15:00:00+00
+1595,Carroll Manor Elementary School,Frederick,3,9/8/2021,15:00:00+00
+1596,Century High School,Carroll,6,9/8/2021,15:00:00+00
+1597,Chopticon High School,St. Mary's,7,9/8/2021,15:00:00+00
+1598,Dayton Elementary School,Howard,2,9/8/2021,15:00:00+00
+1599,Dr. Henry A. Wise Jr. High School,Prince George's,7,9/8/2021,15:00:00+00
+1600,Ducketts Lane Elementary School,Howard,2,9/8/2021,15:00:00+00
+1601,Fort Hill High School,Allegany,4,9/8/2021,15:00:00+00
+1602,Frederick Christian Academy,Frederick,4,9/8/2021,15:00:00+00
+1603,Friends School,Baltimore City,2,9/8/2021,15:00:00+00
+1604,Glade Elementary School,Frederick,4,9/8/2021,15:00:00+00
+1605,Glen Burnie High School,Anne Arundel,3,9/8/2021,15:00:00+00
+1606,Hammond High School,Howard,2,9/8/2021,15:00:00+00
+1607,Hancock Middle-Senior High School,Washington,3,9/8/2021,15:00:00+00
+1608,John Carroll School,Harford,5,9/8/2021,15:00:00+00
+1609,Kent Island High School,Queen Anne's,3,9/8/2021,15:00:00+00
+1610,Lewistown Elementary School,Frederick,5,9/8/2021,15:00:00+00
+1611,Lillie May Jackson Charter Public School,Baltimore City,16,9/8/2021,15:00:00+00
+1612,Linganore High School,Frederick,3,9/8/2021,15:00:00+00
+1613,Marriotts Ridge High School,Howard,4,9/8/2021,15:00:00+00
+1614,Monocacy Elementary School,Frederick,3,9/8/2021,15:00:00+00
+1615,Old Forge Elementary School,Washington,2,9/8/2021,15:00:00+00
+1616,Parkside High School,Wicomico,15,9/8/2021,15:00:00+00
+1617,Potomac High School,Prince George's,2,9/8/2021,15:00:00+00
+1618,Quince Orchard High School,Montgomery,25,9/8/2021,15:00:00+00
+1619,Randallstown High School,Baltimore,2,9/8/2021,15:00:00+00
+1620,Reid Temple Academy,Prince George's,3,9/8/2021,15:00:00+00
+1621,River Hill High School,Howard,2,9/8/2021,15:00:00+00
+1622,Saint Frances Academy,Baltimore City,2,9/8/2021,15:00:00+00
+1623,St. John's School,St. Mary's,5,9/8/2021,15:00:00+00
+1624,St. Paul's Lutheran School,Anne Arundel,4,9/8/2021,15:00:00+00
+1625,St. Philip-Neri School,Anne Arundel,2,9/8/2021,15:00:00+00
+1626,Steven Decatur High School,Worcester,6,9/8/2021,15:00:00+00
+1627,The Key School,Anne Arundel,4,9/8/2021,15:00:00+00
+1628,Thurmont Middle School,Frederick,11,9/8/2021,15:00:00+00
+1629,Trinity School,Howard,2,9/8/2021,15:00:00+00
+1630,Walkersville High School,Frederick,4,9/8/2021,15:00:00+00
+1631,Westminster High School,Carroll,2,9/8/2021,15:00:00+00
+1632,Whittier Elementary School,Frederick,2,9/8/2021,15:00:00+00
+1633,Wicomico Day School,Wicomico,5,9/8/2021,15:00:00+00
+1634,Woodlawn High School,Baltimore,4,9/8/2021,15:00:00+00
+1635,Arch Bishop Curley High School,Baltimore City,2,9/15/2021,15:00:00+00
+1636,Archbishop Neale School,Charles,2,9/15/2021,15:00:00+00
+1637,Arundel Christian School,Anne Arundel,6,9/15/2021,15:00:00+00
+1638,Ballenger Creek Middle School,Frederick,4,9/15/2021,15:00:00+00
+1639,Bellow Springs Elementary School,Howard,2,9/15/2021,15:00:00+00
+1640,Bohemia Manor High School,Cecil,3,9/15/2021,15:00:00+00
+1641,Broadfording Christian Academy,Washington,19,9/15/2021,15:00:00+00
+1642,Broadneck High School,Anne Arundel,2,9/15/2021,15:00:00+00
+1643,Brunswick Elementary School,Frederick,5,9/15/2021,15:00:00+00
+1644,Brunswick High School,Frederick,2,9/15/2021,15:00:00+00
+1645,Bryant Woods Elementary School,Howard,4,9/15/2021,15:00:00+00
+1646,Burning Tree Elementary School,Montgomery,2,9/15/2021,15:00:00+00
+1647,C. Milton Wright High School,Harford,3,9/15/2021,15:00:00+00
+1648,Calvert Hall College High School,Baltimore,2,9/15/2021,15:00:00+00
+1649,Career Center for Technical Education,Allegany,2,9/15/2021,15:00:00+00
+1650,Carter G Woodson Elementary,Somerset,4,9/15/2021,15:00:00+00
+1651,Cedarmere Elementary School,Baltimore,6,9/15/2021,15:00:00+00
+1652,Chopticon High School,St. Mary's,12,9/15/2021,15:00:00+00
+1653,Church Lane Elementary School,Baltimore,5,9/15/2021,15:00:00+00
+1654,Columbia Academy Elementary and Middle School,Howard,3,9/15/2021,15:00:00+00
+1655,Dayton Elementary School,Howard,2,9/15/2021,15:00:00+00
+1656,Divine Mercy Academy,Anne Arundel,7,9/15/2021,15:00:00+00
+1657,Don Bosco Cristo Rey High School,Montgomery,2,9/15/2021,15:00:00+00
+1658,Dr. Henry A. Wise Jr. High School,Prince George's,8,9/15/2021,15:00:00+00
+1659,Ducketts Lane Elementary School,Howard,2,9/15/2021,15:00:00+00
+1660,Emmitsburg Elementary School,Frederick,2,9/15/2021,15:00:00+00
+1661,Folly Quarter Middle School,Howard,2,9/15/2021,15:00:00+00
+1662,Fort Hill High School,Allegany,8,9/15/2021,15:00:00+00
+1663,Franklin Middle School,Baltimore,2,9/15/2021,15:00:00+00
+1664,Frederick High School,Frederick,2,9/15/2021,15:00:00+00
+1665,Friends School,Baltimore City,4,9/15/2021,15:00:00+00
+1666,Glade Elementary School,Frederick,4,9/15/2021,15:00:00+00
+1667,Glen Burnie High School,Anne Arundel,3,9/15/2021,15:00:00+00
+1668,Great Mills High School,St. Mary's,4,9/15/2021,15:00:00+00
+1669,Green Holly Elementary School,St. Mary's,2,9/15/2021,15:00:00+00
+1670,Gwynn Park High School,Prince George's,11,9/15/2021,15:00:00+00
+1671,Hammond Elementary School,Howard,3,9/15/2021,15:00:00+00
+1672,Hammond High School,Howard,2,9/15/2021,15:00:00+00
+1673,Harford Technical High School,Harford,4,9/15/2021,15:00:00+00
+1674,Haver De Grace Elementary School,Harford,2,9/15/2021,15:00:00+00
+1675,Joppatowne High School,Harford,2,9/15/2021,15:00:00+00
+1676,Kent Island Elementary School,Queen Anne's,2,9/15/2021,15:00:00+00
+1677,Kent Island High School,Queen Anne's,4,9/15/2021,15:00:00+00
+1678,Laurelwood Elementary School,Howard,2,9/15/2021,15:00:00+00
+1679,Leonardtown Elementary School,St. Mary's,4,9/15/2021,15:00:00+00
+1680,Leonardtown High School,St. Mary's,6,9/15/2021,15:00:00+00
+1681,Lillie May Jackson Charter Public School,Baltimore City,16,9/15/2021,15:00:00+00
+1682,Margaret Brent Middle School,St. Mary's,7,9/15/2021,15:00:00+00
+1683,Maryland School for the Deaf,Frederick,2,9/15/2021,15:00:00+00
+1684,Middletown Elementary,Frederick,2,9/15/2021,15:00:00+00
+1685,Milford Mill Academy,Baltimore,3,9/15/2021,15:00:00+00
+1686,Monocacy Elementary School,Frederick,3,9/15/2021,15:00:00+00
+1687,Monsignor Slade Catholic School,Anne Arundel,2,9/15/2021,15:00:00+00
+1688,Mount Savage School,Allegany,2,9/15/2021,15:00:00+00
+1689,Mountain Ridge High School,Allegany,6,9/15/2021,15:00:00+00
+1690,Myersville Elementary School,Frederick,2,9/15/2021,15:00:00+00
+1691,New Life Christian School,Frederick,2,9/15/2021,15:00:00+00
+1692,Northeast High School,Anne Arundel,6,9/15/2021,15:00:00+00
+1693,Northern Middle School,Washington,8,9/15/2021,15:00:00+00
+1694,Oakdale Middle School,Frederick,2,9/15/2021,15:00:00+00
+1695,Old Forge Elementary School,Washington,2,9/15/2021,15:00:00+00
+1696,Orchard Groves Elementary School,Frederick,2,9/15/2021,15:00:00+00
+1697,Parkside High School,Wicomico,18,9/15/2021,15:00:00+00
+1698,Patapsco High School,Baltimore,3,9/15/2021,15:00:00+00
+1699,Pine Grove Elementary School,Baltimore,2,9/15/2021,15:00:00+00
+1700,Piney Point Elementary School,St. Mary's,7,9/15/2021,15:00:00+00
+1701,Plum Point Elementary School,Calvert,8,9/15/2021,15:00:00+00
+1702,Ridgely Elementary School,Caroline,3,9/15/2021,15:00:00+00
+1703,River Hill High School,Howard,2,9/15/2021,15:00:00+00
+1704,Saint Frances Academy,Baltimore City,2,9/15/2021,15:00:00+00
+1705,Seven Oaks Elementary School,Baltimore,2,9/15/2021,15:00:00+00
+1706,Severn School,Anne Arundel,2,9/15/2021,15:00:00+00
+1707,Showell Elementary School,Worcester,2,9/15/2021,15:00:00+00
+1708,Somerset Intermediate School,Somerset,12,9/15/2021,15:00:00+00
+1709,South Penn Elementary School,Allegany,9,9/15/2021,15:00:00+00
+1710,Springfield Middle School,Washington,2,9/15/2021,15:00:00+00
+1711,St. John Regional Catholic School,Frederick,3,9/15/2021,15:00:00+00
+1712,St. Margaret School,Harford,2,9/15/2021,15:00:00+00
+1713,St. Mark School,Baltimore,2,9/15/2021,15:00:00+00
+1714,St. Paul's Lutheran School,Anne Arundel,4,9/15/2021,15:00:00+00
+1715,St. Philip-Neri School,Anne Arundel,3,9/15/2021,15:00:00+00
+1716,Steven Decatur High School,Worcester,6,9/15/2021,15:00:00+00
+1717,Talmudical Academy,Baltimore,15,9/15/2021,15:00:00+00
+1718,The Key School,Anne Arundel,5,9/15/2021,15:00:00+00
+1719,Thurmont Middle School,Frederick,12,9/15/2021,15:00:00+00
+1720,Trinity School,Howard,2,9/15/2021,15:00:00+00
+1721,Tuscarora High School,Frederick,9,9/15/2021,15:00:00+00
+1722,Valley Elementary School,Frederick,2,9/15/2021,15:00:00+00
+1723,Walkersville Elementary School,Frederick,2,9/15/2021,15:00:00+00
+1724,Walkersville High School,Frederick,6,9/15/2021,15:00:00+00
+1725,Walkersville Middle School,Frederick,2,9/15/2021,15:00:00+00
+1726,Washington Middle School,Allegany,3,9/15/2021,15:00:00+00
+1727,White Marsh Elementary School,St. Mary's,2,9/15/2021,15:00:00+00
+1728,Williamsport High School,Washington,17,9/15/2021,15:00:00+00
+1729,Worcester Preparatory School,Worcester,3,9/15/2021,15:00:00+00
+2019,Allegany High School,Allegany,9,9/29/2021,15:00:00+00
+2020,Al-Rahmah School,Baltimore,2,9/29/2021,15:00:00+00
+2021,Beall Elementary School,Allegany,2,9/29/2021,15:00:00+00
+2022,Benjamin Foulois Creative & Performing Arts Academy,Prince George's,4,9/29/2021,15:00:00+00
+2023,Bethel Christian Academy,Howard,2,9/29/2021,15:00:00+00
+2024,Braddock Middle School,Allegany,13,9/29/2021,15:00:00+00
+2025,Broadfording Christian Academy,Washington,25,9/29/2021,15:00:00+00
+2026,Broadneck High School,Anne Arundel,4,9/29/2021,15:00:00+00
+2027,Brooklyn Park Elementary School,Anne Arundel,3,9/29/2021,15:00:00+00
+2028,Burning Tree Elementary School,Montgomery,2,9/29/2021,15:00:00+00
+2029,Calvin M. Rodwell Elementary/Middle School,Baltimore City,6,9/29/2021,15:00:00+00
+2030,Career Center for Technical Education,Allegany,18,9/29/2021,15:00:00+00
+2031,Carroll Manor Elementary School,Baltimore,2,9/29/2021,15:00:00+00
+2032,Carter G Woodson Elementary,Somerset,29,9/29/2021,15:00:00+00
+2033,Catoctin High School,Frederick,12,9/29/2021,15:00:00+00
+2034,Center for Applied Technologies North,Anne Arundel,5,9/29/2021,15:00:00+00
+2035,Centreville Middle School,Queen Anne's,7,9/29/2021,15:00:00+00
+2036,Chesapeake Bay Middle School,Anne Arundel,9,9/29/2021,15:00:00+00
+2037,Chesapeake City Elementary School,Cecil,8,9/29/2021,15:00:00+00
+2038,Chesapeake High School,Anne Arundel,23,9/29/2021,15:00:00+00
+2039,Clarksville Elementary,Howard,2,9/29/2021,15:00:00+00
+2040,Clear Spring High School,Washington,2,9/29/2021,15:00:00+00
+2041,Columbia Academy Elementary and Middle School,Howard,3,9/29/2021,15:00:00+00
+2042,Corkran Middle School,Anne Arundel,3,9/29/2021,15:00:00+00
+2043,Cradle Rock Elementary,Howard,3,9/29/2021,15:00:00+00
+2044,Crofton High School,Anne Arundel,8,9/29/2021,15:00:00+00
+2045,Crofton Woods Elementary School,Anne Arundel,2,9/29/2021,15:00:00+00
+2046,Crossroads Center School,Baltimore,3,9/29/2021,15:00:00+00
+2047,Damascus High School,Montgomery,3,9/29/2021,15:00:00+00
+2048,Deerfield Elementary School,Harford,2,9/29/2021,15:00:00+00
+2049,Dublin Elementary School,Harford,2,9/29/2021,15:00:00+00
+2050,Dundalk Elementary School,Baltimore,2,9/29/2021,15:00:00+00
+2051,Dunloggin Middle School,Howard,2,9/29/2021,15:00:00+00
+2052,Dynard Elementary School,St. Mary's,2,9/29/2021,15:00:00+00
+2053,Easton Elementary School,Talbot,3,9/29/2021,15:00:00+00
+2054,Ebb Valley Elementary School,Carroll,2,9/29/2021,15:00:00+00
+2055,Elmer Wolfe Elementary School,Carroll,2,9/29/2021,15:00:00+00
+2056,"Father Andrew White, S.J. School",St. Mary's,2,9/29/2021,15:00:00+00
+2057,Federalsburg Elementary School,Caroline,8,9/29/2021,15:00:00+00
+2058,Forbush School at Hunt Valley (Sheppard Pratt),Baltimore,2,9/29/2021,15:00:00+00
+2059,Forest Ridge Elementary School,Howard,3,9/29/2021,15:00:00+00
+2060,Fort Hill High School,Allegany,15,9/29/2021,15:00:00+00
+2061,Friends School,Baltimore City,35,9/29/2021,15:00:00+00
+2062,Galena Elementary School,Kent,2,9/29/2021,15:00:00+00
+2063,Good Shepard Catholic School,Cecil,3,9/29/2021,15:00:00+00
+2064,Governor Thomas Johnson High School,Frederick,3,9/29/2021,15:00:00+00
+2065,Great Mills High School,St. Mary's,19,9/29/2021,15:00:00+00
+2066,Greenview Knolls Elementary School,St. Mary's,2,9/29/2021,15:00:00+00
+2067,Greenwood Elementary School,Somerset,7,9/29/2021,15:00:00+00
+2068,Gwynn Park High School,Prince George's,14,9/29/2021,15:00:00+00
+2069,Hammond Elementary School,Howard,5,9/29/2021,15:00:00+00
+2070,Hancock Middle-Senior High School,Washington,6,9/29/2021,15:00:00+00
+2071,Hannover Hills Elementary School,Howard,6,9/29/2021,15:00:00+00
+2072,Harford Day School,Harford,2,9/29/2021,15:00:00+00
+2073,Harford Technical High School,Harford,4,9/29/2021,15:00:00+00
+2074,Haver De Grace Elementary School,Harford,6,9/29/2021,15:00:00+00
+2075,Heritage Academy,Washington,2,9/29/2021,15:00:00+00
+2076,Hollywood Elementary School,St. Mary's,4,9/29/2021,15:00:00+00
+2077,James M Bennett High School,Wicomico,4,9/29/2021,15:00:00+00
+2078,Joppatowne Elementary,Harford,4,9/29/2021,15:00:00+00
+2079,Joppatowne High School,Harford,2,9/29/2021,15:00:00+00
+2080,Kent Island Elementary School,Queen Anne's,4,9/29/2021,15:00:00+00
+2081,Kingsville Elementary School,Baltimore,3,9/29/2021,15:00:00+00
+2082,Landon School,Montgomery,7,9/29/2021,15:00:00+00
+2083,Lansdowne High School,Baltimore,2,9/29/2021,15:00:00+00
+2084,Laurel Woods Elementary School,Howard,4,9/29/2021,15:00:00+00
+2085,Leonardtown High School,St. Mary's,35,9/29/2021,15:00:00+00
+2086,Lillie May Jackson Charter Public School,Baltimore City,16,9/29/2021,15:00:00+00
+2087,Linton Springs Elementary School,Carroll,6,9/29/2021,15:00:00+00
+2088,Living Hope Christian School,Somerset,9,9/29/2021,15:00:00+00
+2089,Lucy School,Frederick,2,9/29/2021,15:00:00+00
+2090,Magothy River Middle School,Anne Arundel,4,9/29/2021,15:00:00+00
+2091,Margaret Brent Middle School,St. Mary's,61,9/29/2021,15:00:00+00
+2092,Mary H. Matula Elementary School,Charles,9,9/29/2021,15:00:00+00
+2093,Maryland International School of Sustainability and Technology,Washington,7,9/29/2021,15:00:00+00
+2094,Maryland School for the Deaf,Frederick,6,9/29/2021,15:00:00+00
+2095,Mattawoman Middle School,Charles,2,9/29/2021,15:00:00+00
+2096,Middletown Primary School,Frederick,3,9/29/2021,15:00:00+00
+2097,Monsignor Slade Catholic School,Anne Arundel,9,9/29/2021,15:00:00+00
+2098,Most Blessed Sacrament,Worcester,3,9/29/2021,15:00:00+00
+2099,Mount Airy Middle School,Carroll,2,9/29/2021,15:00:00+00
+2100,Mount Airy Middle School,Carroll,2,9/29/2021,15:00:00+00
+2101,Mount View Middle School,Howard,2,9/29/2021,15:00:00+00
+2102,Mountain Ridge High School,Allegany,14,9/29/2021,15:00:00+00
+2103,New Life Christian School,Frederick,8,9/29/2021,15:00:00+00
+2104,New Town High School,Baltimore,6,9/29/2021,15:00:00+00
+2105,North Bethesda Middle School,Montgomery,16,9/29/2021,15:00:00+00
+2106,North Caroline High School,Caroline,6,9/29/2021,15:00:00+00
+2107,North Dorchester High School,Dorchester,19,9/29/2021,15:00:00+00
+2108,North Dorchester Middle School,Dorchester,19,9/29/2021,15:00:00+00
+2109,North East Middle School,Cecil,20,9/29/2021,15:00:00+00
+2110,North Hagerstown High School,Washington,2,9/29/2021,15:00:00+00
+2111,Northeast High School,Anne Arundel,22,9/29/2021,15:00:00+00
+2112,Northeast Middle School,Anne Arundel,9,9/29/2021,15:00:00+00
+2113,Northern Middle School,Washington,17,9/29/2021,15:00:00+00
+2114,Northern Middle School,Garrett,5,9/29/2021,15:00:00+00
+2115,Northwest Middle School,Carroll,27,9/29/2021,15:00:00+00
+2116,Oakdale Elementary School,Frederick,2,9/29/2021,15:00:00+00
+2117,Oakdale Middle School,Frederick,6,9/29/2021,15:00:00+00
+2118,Ocean City Elementary School,Worcester,2,9/29/2021,15:00:00+00
+2119,Ohr Chadash Academy of Baltimore,Baltimore City,7,9/29/2021,15:00:00+00
+2120,Old Mill Middle School,Anne Arundel,3,9/29/2021,15:00:00+00
+2121,Orchard Groves Elementary School,Frederick,5,9/29/2021,15:00:00+00
+2122,Parkside High School,Wicomico,26,9/29/2021,15:00:00+00
+2123,Patapsco High School,Baltimore,6,9/29/2021,15:00:00+00
+2124,Perry Hall Christian School,Baltimore,6,9/29/2021,15:00:00+00
+2125,Phelps Luck Elementary School,Howard,4,9/29/2021,15:00:00+00
+2126,Piney Point Elementary School,St. Mary's,24,9/29/2021,15:00:00+00
+2127,Pocomoke High School,Worcester,4,9/29/2021,15:00:00+00
+2128,Prince Street Elementary School,Wicomico,2,9/29/2021,15:00:00+00
+2129,Queen Anne's County High School,Queen Anne's,5,9/29/2021,15:00:00+00
+2130,Redeemer Classical Christian,Baltimore,7,9/29/2021,15:00:00+00
+2131,Reservoir High School,Howard,4,9/29/2021,15:00:00+00
+2132,Ridgely Middle School,Baltimore,3,9/29/2021,15:00:00+00
+2133,Rising Sun Middle School,Cecil,7,9/29/2021,15:00:00+00
+2134,Riverview Elementary School,Baltimore,2,9/29/2021,15:00:00+00
+2135,Robert Frost Middle School,Montgomery,3,9/29/2021,15:00:00+00
+2136,Running Brook Elementary School,Howard,4,9/29/2021,15:00:00+00
+2137,Salisbury Christian School,Wicomico,3,9/29/2021,15:00:00+00
+2138,School of The Incarnation,Anne Arundel,2,9/29/2021,15:00:00+00
+2139,Seaside Christian Academy,Worcester,4,9/29/2021,15:00:00+00
+2140,Severn Elementary School,Anne Arundel,2,9/29/2021,15:00:00+00
+2141,Shady Spring Elementary School,Baltimore,7,9/29/2021,15:00:00+00
+2142,Sheppard Pratt School in Glyndon - Reisterstown,Baltimore,2,9/29/2021,15:00:00+00
+2143,Showell Elementary School,Worcester,11,9/29/2021,15:00:00+00
+2144,Silver Oak Academy,Carroll,3,9/29/2021,15:00:00+00
+2145,Snow Hill High School,Worcester,6,9/29/2021,15:00:00+00
+2146,Snow Hill Middle School,Worcester,17,9/29/2021,15:00:00+00
+2147,Solley Elementary School,Anne Arundel,3,9/29/2021,15:00:00+00
+2148,Somerset Intermediate School,Somerset,15,9/29/2021,15:00:00+00
+2149,South Hagerstown High School,Washington,2,9/29/2021,15:00:00+00
+2150,South Penn Elementary School,Allegany,11,9/29/2021,15:00:00+00
+2151,Southern Middle School,Garrett,3,9/29/2021,15:00:00+00
+2152,Southern Middle School,Anne Arundel,6,9/29/2021,15:00:00+00
+2153,Sparrows Point High School,Baltimore,2,9/29/2021,15:00:00+00
+2154,St Margaret Middle School,Harford,3,9/29/2021,15:00:00+00
+2155,St. James Academy,Baltimore,4,9/29/2021,15:00:00+00
+2156,St. Jerome Academy,Prince George's,14,9/29/2021,15:00:00+00
+2157,St. John's Catholic Preparatory School,Frederick,2,9/29/2021,15:00:00+00
+2158,St. Margaret School,Harford,5,9/29/2021,15:00:00+00
+2159,St. Michaels Elementary School,Talbot,2,9/29/2021,15:00:00+00
+2160,St. Paul's Lutheran School,Baltimore,5,9/29/2021,15:00:00+00
+2161,St. Philip-Neri School,Anne Arundel,3,9/29/2021,15:00:00+00
+2162,St. Ursula Catholic School,Baltimore,29,9/29/2021,15:00:00+00
+2163,Sykesville Middle School,Carroll,7,9/29/2021,15:00:00+00
+2164,T.C. Martin Elementary School,Charles,3,9/29/2021,15:00:00+00
+2165,Talmudical Academy,Baltimore,36,9/29/2021,15:00:00+00
+2166,The Historic Cherry Hill Elementary and Middle School,Baltimore City,6,9/29/2021,15:00:00+00
+2167,Thurmont Middle School,Frederick,16,9/29/2021,15:00:00+00
+2168,Tristate Christian Academy,Cecil,9,9/29/2021,15:00:00+00
+2169,Tuscarora Elementary School,Frederick,4,9/29/2021,15:00:00+00
+2170,University Park Elementary School,Prince George's,4,9/29/2021,15:00:00+00
+2171,Walkersville Middle School,Frederick,5,9/29/2021,15:00:00+00
+2172,Washington High School,Somerset,11,9/29/2021,15:00:00+00
+2173,Wellwood International School,Baltimore,2,9/29/2021,15:00:00+00
+2174,Western Heights Middle,Washington,17,9/29/2021,15:00:00+00
+2175,Westminster Elementary School,Carroll,2,9/29/2021,15:00:00+00
+2176,Wilde Lake Middle School,Howard,4,9/29/2021,15:00:00+00
+2177,Williamsport High School,Washington,20,9/29/2021,15:00:00+00
+2178,Worcester Preparatory School,Worcester,5,9/29/2021,15:00:00+00
+2179,Worthington Elementary School,Howard,6,9/29/2021,15:00:00+00
+2180,Yellow Springs Elementary School,Frederick,2,9/29/2021,15:00:00+00
+2354,Accident Elementary School,Garrett,2,10/6/2021,15:00:00+00
+2355,Allegany High School,Allegany,15,10/6/2021,15:00:00+00
+2356,Alphabet Education Inc at Mary B Neal Elementary,Charles,2,10/6/2021,15:00:00+00
+2357,Annapolis Area Christian School - Lower School Annapolis,Anne Arundel,2,10/6/2021,15:00:00+00
+2358,Annapolis Area Christian School -Severn Campus Lower School,Anne Arundel,2,10/6/2021,15:00:00+00
+2359,Beall Elementary School,Allegany,3,10/6/2021,15:00:00+00
+2360,Bel Air Elementary,Allegany,3,10/6/2021,15:00:00+00
+2361,Benjamin Foulois Creative & Performing Arts Academy,Prince George's,11,10/6/2021,15:00:00+00
+2362,Bethel Christian Academy,Howard,2,10/6/2021,15:00:00+00
+2363,Bethesda-Chevy Chase High School,Montgomery,2,10/6/2021,15:00:00+00
+2364,Bodkin Elementary School,Anne Arundel,2,10/6/2021,15:00:00+00
+2365,Bohemian Manor High School,Cecil,3,10/6/2021,15:00:00+00
+2366,Braddock Middle School,Allegany,16,10/6/2021,15:00:00+00
+2367,Bridgeway Elementary School,Anne Arundel,2,10/6/2021,15:00:00+00
+2368,Broadfording Christian Academy,Washington,27,10/6/2021,15:00:00+00
+2369,Brooklyn Park Middle School,Anne Arundel,2,10/6/2021,15:00:00+00
+2370,Bryn Mawr School,Baltimore City,6,10/6/2021,15:00:00+00
+2371,Buckingham Elementary School,Worcester,2,10/6/2021,15:00:00+00
+2372,Calvert Hall College High School,Baltimore,10,10/6/2021,15:00:00+00
+2373,Calvin M. Rodwell Elementary/Middle School,Baltimore City,6,10/6/2021,15:00:00+00
+2374,Captain Walter Francis Duke Middle School,St. Mary's,8,10/6/2021,15:00:00+00
+2375,Cardinal Shehan,Baltimore City,4,10/6/2021,15:00:00+00
+2376,Career Center for Technical Education,Allegany,27,10/6/2021,15:00:00+00
+2377,Carter G Woodson Elementary,Somerset,33,10/6/2021,15:00:00+00
+2378,Catoctin High School,Frederick,15,10/6/2021,15:00:00+00
+2379,Caver Vocational High School,Baltimore City,5,10/6/2021,15:00:00+00
+2380,Centreville Middle School,Queen Anne's,7,10/6/2021,15:00:00+00
+2381,Chesapeake Bay Middle School,Anne Arundel,13,10/6/2021,15:00:00+00
+2382,Chesapeake City Elementary School,Cecil,9,10/6/2021,15:00:00+00
+2383,Chesapeake High School,Anne Arundel,24,10/6/2021,15:00:00+00
+2384,Clarksville Elementary,Howard,2,10/6/2021,15:00:00+00
+2385,Clear Spring High School,Washington,3,10/6/2021,15:00:00+00
+2386,Clemens Crossing Elementary School,Howard,2,10/6/2021,15:00:00+00
+2387,Cockeysville Middle School,Baltimore,2,10/6/2021,15:00:00+00
+2388,Columbia Academy Elementary and Middle School,Howard,3,10/6/2021,15:00:00+00
+2389,Cradle Rock Elementary,Howard,3,10/6/2021,15:00:00+00
+2390,Crisfield High School,Somerset,9,10/6/2021,15:00:00+00
+2391,Crofton High School,Anne Arundel,10,10/6/2021,15:00:00+00
+2392,Crofton Middle School,Anne Arundel,2,10/6/2021,15:00:00+00
+2393,Crofton Woods Elementary School,Anne Arundel,2,10/6/2021,15:00:00+00
+2394,Damascus High School,Montgomery,3,10/6/2021,15:00:00+00
+2395,Diamond Elementary School,Montgomery,3,10/6/2021,15:00:00+00
+2396,Dr. Nathan A. Pitts-Ashburton Elementary/Middle School,Baltimore City,10,10/6/2021,15:00:00+00
+2397,Dublin Elementary School,Harford,4,10/6/2021,15:00:00+00
+2398,Dulaney High School,Baltimore,2,10/6/2021,15:00:00+00
+2399,Dynard Elementary School,St. Mary's,2,10/6/2021,15:00:00+00
+2400,Easton Elementary School,Talbot,3,10/6/2021,15:00:00+00
+2401,Ebb Valley Elementary School,Carroll,2,10/6/2021,15:00:00+00
+2402,Elmwood Elementary School,Baltimore,4,10/6/2021,15:00:00+00
+2403,Esperanza Middle School,St. Mary's,15,10/6/2021,15:00:00+00
+2404,Federalsburg Elementary School,Caroline,8,10/6/2021,15:00:00+00
+2405,Forbush School at Hunt Valley (Sheppard Pratt),Baltimore,2,10/6/2021,15:00:00+00
+2406,Fort Hill High School,Allegany,29,10/6/2021,15:00:00+00
+2407,Friends School,Baltimore City,39,10/6/2021,15:00:00+00
+2408,Gilpin Manor Elementary School,Cecil,2,10/6/2021,15:00:00+00
+2409,Good Shepard Catholic School,Cecil,5,10/6/2021,15:00:00+00
+2410,Grange Elementary School,Baltimore,2,10/6/2021,15:00:00+00
+2411,Great Mills High School,St. Mary's,34,10/6/2021,15:00:00+00
+2412,Greenview Knolls Elementary School,St. Mary's,2,10/6/2021,15:00:00+00
+2413,Greenwood Elementary School,Somerset,11,10/6/2021,15:00:00+00
+2414,Halethorpe Elementary School,Baltimore,2,10/6/2021,15:00:00+00
+2415,Hancock Middle-Senior High School,Washington,6,10/6/2021,15:00:00+00
+2416,Harford Technical High School,Harford,17,10/6/2021,15:00:00+00
+2417,Haver De Grace Elementary School,Harford,9,10/6/2021,15:00:00+00
+2418,Havre de Grace High School,Harford,2,10/6/2021,15:00:00+00
+2419,High Point Elementary School,Anne Arundel,2,10/6/2021,15:00:00+00
+2420,Hollywood Elementary School,St. Mary's,4,10/6/2021,15:00:00+00
+2421,Howard High School,Howard,5,10/6/2021,15:00:00+00
+2422,James M Bennett High School,Wicomico,4,10/6/2021,15:00:00+00
+2423,Jemicy School,Baltimore,2,10/6/2021,15:00:00+00
+2424,John Archer School,Harford,2,10/6/2021,15:00:00+00
+2425,Joppatowne Elementary,Harford,4,10/6/2021,15:00:00+00
+2426,Kennard Elementary School,Queen Anne's,4,10/6/2021,15:00:00+00
+2427,Kent Island Elementary School,Queen Anne's,6,10/6/2021,15:00:00+00
+2428,Kent Island High School,Queen Anne's,7,10/6/2021,15:00:00+00
+2429,Kingsville Elementary School,Baltimore,3,10/6/2021,15:00:00+00
+2430,La Plata High School,Charles,4,10/6/2021,15:00:00+00
+2431,Landon School,Montgomery,8,10/6/2021,15:00:00+00
+2432,Laurel Woods Elementary School,Howard,4,10/6/2021,15:00:00+00
+2433,Leonardtown High School,St. Mary's,71,10/6/2021,15:00:00+00
+2434,Leonardtown Middle School,St. Mary's,22,10/6/2021,15:00:00+00
+2435,Lexington Park Elementary School,St. Mary's,2,10/6/2021,15:00:00+00
+2436,Living Hope Christian School,Somerset,11,10/6/2021,15:00:00+00
+2437,Logan Elementary,Baltimore,3,10/6/2021,15:00:00+00
+2438,Lutherville Laboratory,Baltimore,3,10/6/2021,15:00:00+00
+2439,Magothy River Middle School,Anne Arundel,4,10/6/2021,15:00:00+00
+2440,Margaret Brent Middle School,St. Mary's,62,10/6/2021,15:00:00+00
+2441,Marley Elementary School,Anne Arundel,7,10/6/2021,15:00:00+00
+2442,Maryland International School of Sustainability and Technology,Washington,7,10/6/2021,15:00:00+00
+2443,Mattawoman Middle School,Charles,5,10/6/2021,15:00:00+00
+2444,McDonogh School,Baltimore,2,10/6/2021,15:00:00+00
+2445,Mechanicsville Elementary School,Carroll,3,10/6/2021,15:00:00+00
+2446,Middletown High School,Frederick,2,10/6/2021,15:00:00+00
+2447,Monarch Global Academy,Anne Arundel,9,10/6/2021,15:00:00+00
+2448,Monsignor Slade Catholic School,Anne Arundel,10,10/6/2021,15:00:00+00
+2449,Mount Airy Middle School,Carroll,2,10/6/2021,15:00:00+00
+2450,Mount View Middle School,Howard,5,10/6/2021,15:00:00+00
+2451,Mountain Ridge High School,Allegany,21,10/6/2021,15:00:00+00
+2452,New Life Christian School,Frederick,8,10/6/2021,15:00:00+00
+2453,New Town High School,Baltimore,7,10/6/2021,15:00:00+00
+2454,North Bethesda Middle School,Montgomery,16,10/6/2021,15:00:00+00
+2455,North Caroline High School,Caroline,7,10/6/2021,15:00:00+00
+2456,North County High School,Anne Arundel,2,10/6/2021,15:00:00+00
+2457,North Dorchester High School,Dorchester,20,10/6/2021,15:00:00+00
+2458,North Dorchester Middle School,Dorchester,20,10/6/2021,15:00:00+00
+2459,North East Middle School,Cecil,30,10/6/2021,15:00:00+00
+2460,North Hagerstown High School,Washington,4,10/6/2021,15:00:00+00
+2461,Northeast High School,Anne Arundel,25,10/6/2021,15:00:00+00
+2462,Northeast Middle School,Anne Arundel,11,10/6/2021,15:00:00+00
+2463,Northern Middle School,Washington,18,10/6/2021,15:00:00+00
+2464,Northwest Middle School,Carroll,27,10/6/2021,15:00:00+00
+2465,Oakdale Middle School,Frederick,6,10/6/2021,15:00:00+00
+2466,Oakleigh Elementary School,Baltimore,2,10/6/2021,15:00:00+00
+2467,Oakville Elementary School,St. Mary's,2,10/6/2021,15:00:00+00
+2468,Oakwood Elementary School,Anne Arundel,5,10/6/2021,15:00:00+00
+2469,Old Mill High School,Anne Arundel,2,10/6/2021,15:00:00+00
+2470,Old Mill Middle School,Anne Arundel,18,10/6/2021,15:00:00+00
+2471,Orchard Groves Elementary School,Frederick,11,10/6/2021,15:00:00+00
+2472,Parkside High School,Wicomico,27,10/6/2021,15:00:00+00
+2473,Patapsco High School,Baltimore,6,10/6/2021,15:00:00+00
+2474,Perry Hall Christian School,Baltimore,6,10/6/2021,15:00:00+00
+2475,Perryville High School,Cecil,8,10/6/2021,15:00:00+00
+2476,Phelps Luck Elementary School,Howard,9,10/6/2021,15:00:00+00
+2477,Pimlico Elementary Middle School,Baltimore City,11,10/6/2021,15:00:00+00
+2478,Piney Point Elementary School,St. Mary's,36,10/6/2021,15:00:00+00
+2479,Pocomoke Elementary School,Worcester,6,10/6/2021,15:00:00+00
+2480,Poolesville Elementary School,Montgomery,4,10/6/2021,15:00:00+00
+2481,Pretty Boy Elementary,Baltimore,2,10/6/2021,15:00:00+00
+2482,Reservoir High School,Howard,7,10/6/2021,15:00:00+00
+2483,Rising Sun Middle School,Cecil,7,10/6/2021,15:00:00+00
+2484,Robert Frost Middle School,Montgomery,3,10/6/2021,15:00:00+00
+2485,Running Brook Elementary School,Howard,4,10/6/2021,15:00:00+00
+2486,Seaside Christian Academy,Worcester,7,10/6/2021,15:00:00+00
+2487,Severn Elementary School,Anne Arundel,4,10/6/2021,15:00:00+00
+2488,Shady Spring Elementary School,Baltimore,11,10/6/2021,15:00:00+00
+2489,Shiloh Middle School,Carroll,2,10/6/2021,15:00:00+00
+2490,Shiloh Middle School,Carroll,2,10/6/2021,15:00:00+00
+2491,Showell Elementary School,Worcester,18,10/6/2021,15:00:00+00
+2492,Snow Hill Middle School,Worcester,24,10/6/2021,15:00:00+00
+2493,Solley Elementary School,Anne Arundel,3,10/6/2021,15:00:00+00
+2494,Somerset Intermediate School,Somerset,15,10/6/2021,15:00:00+00
+2495,South Hampton Middle School,Harford,4,10/6/2021,15:00:00+00
+2496,Southern Middle School,Garrett,3,10/6/2021,15:00:00+00
+2497,Southern Middle School,Anne Arundel,9,10/6/2021,15:00:00+00
+2498,Spring Ridge Middle School,St. Mary's,29,10/6/2021,15:00:00+00
+2499,St Margaret Middle School,Harford,4,10/6/2021,15:00:00+00
+2500,St. Jerome Academy,Prince George's,20,10/6/2021,15:00:00+00
+2501,St. Margaret School,Harford,5,10/6/2021,15:00:00+00
+2502,St. Mary's School,Charles,2,10/6/2021,15:00:00+00
+2503,St. Michaels Elementary School,Talbot,2,10/6/2021,15:00:00+00
+2504,St. Paul's Lutheran School,Baltimore,8,10/6/2021,15:00:00+00
+2505,St. Ursula Catholic School,Baltimore,33,10/6/2021,15:00:00+00
+2506,Stemmers Run Middle School,Baltimore,4,10/6/2021,15:00:00+00
+2507,T.C. Martin Elementary School,Charles,17,10/6/2021,15:00:00+00
+2508,Talmudical Academy,Baltimore,36,10/6/2021,15:00:00+00
+2509,The Arrow School of Education,Baltimore,3,10/6/2021,15:00:00+00
+2510,The Children's Guild - PG Campus,Prince George's,9,10/6/2021,15:00:00+00
+2511,The Historic Cherry Hill Elementary and Middle School,Baltimore City,6,10/6/2021,15:00:00+00
+2512,The John Carroll School,Harford,2,10/6/2021,15:00:00+00
+2513,Thurmont Middle School,Frederick,20,10/6/2021,15:00:00+00
+2514,Tristate Christian Academy,Cecil,12,10/6/2021,15:00:00+00
+2515,Tuscarora Elementary School,Frederick,6,10/6/2021,15:00:00+00
+2516,Vila Maria School,Baltimore,4,10/6/2021,15:00:00+00
+2517,Walkersville Middle School,Frederick,5,10/6/2021,15:00:00+00
+2518,Washington High School,Somerset,13,10/6/2021,15:00:00+00
+2519,Wellwood International School,Baltimore,5,10/6/2021,15:00:00+00
+2520,West Friendship Elementary School,Howard,3,10/6/2021,15:00:00+00
+2521,Western Heights Middle,Washington,23,10/6/2021,15:00:00+00
+2522,White Marsh Elementary School,St. Mary's,4,10/6/2021,15:00:00+00
+2523,Wilde Lake Middle School,Howard,5,10/6/2021,15:00:00+00
+2524,Williamsport High School,Washington,26,10/6/2021,15:00:00+00
+2525,Woodbridge Elementary,Baltimore,2,10/6/2021,15:00:00+00
+2526,Worthington Elementary School,Howard,7,10/6/2021,15:00:00+00
+2527,Accident Elementary School,Garrett,2,10/13/2021,15:00:00+00
+2528,Allegany High School,Allegany,27,10/13/2021,15:00:00+00
+2529,Alphabet Education Inc at Mary B Neal Elementary,Charles,2,10/13/2021,15:00:00+00
+2530,Annapolis Area Christian School - Lower School Annapolis,Anne Arundel,3,10/13/2021,15:00:00+00
+2531,Annapolis Area Christian School - Severn Campus Lower School,Anne Arundel,5,10/13/2021,15:00:00+00
+2532,Beach Elementary School,Calvert,3,10/13/2021,15:00:00+00
+2533,Bel Air Elementary School,Allegany,3,10/13/2021,15:00:00+00
+2534,Benjamin Foulois Creative & Performing Arts Academy,Prince George's,11,10/13/2021,15:00:00+00
+2535,Bethesda-Chevy Chase High School,Montgomery,2,10/13/2021,15:00:00+00
+2536,Bodkin Elementary School,Anne Arundel,4,10/13/2021,15:00:00+00
+2537,Bohemian Manor High School,Cecil,3,10/13/2021,15:00:00+00
+2538,Braddock Middle School,Allegany,23,10/13/2021,15:00:00+00
+2539,Bridgeway Elementary School,Anne Arundel,2,10/13/2021,15:00:00+00
+2540,Brooklyn Park Middle School,Anne Arundel,3,10/13/2021,15:00:00+00
+2541,Bryn Mawr School,Baltimore City,6,10/13/2021,15:00:00+00
+2542,Buckingham Elementary School,Worcester,6,10/13/2021,15:00:00+00
+2543,Calvert Hall College High School,Baltimore,10,10/13/2021,15:00:00+00
+2544,Calvin M. Rodwell Elementary/Middle School,Baltimore City,6,10/13/2021,15:00:00+00
+2545,Captain Walter Francis Duke Middle School,St. Mary's,8,10/13/2021,15:00:00+00
+2546,Cardinal Shehan,Baltimore City,6,10/13/2021,15:00:00+00
+2547,Career Center for Technical Education,Allegany,29,10/13/2021,15:00:00+00
+2548,Carter G.  Woodson Elementary School,Somerset,39,10/13/2021,15:00:00+00
+2549,Catoctin High School,Frederick,20,10/13/2021,15:00:00+00
+2550,Caver Vocational High School,Baltimore City,5,10/13/2021,15:00:00+00
+2551,Chesapeake Bay Middle School,Anne Arundel,15,10/13/2021,15:00:00+00
+2552,Chesapeake City Elementary School,Cecil,9,10/13/2021,15:00:00+00
+2553,Chesapeake High School,Anne Arundel,40,10/13/2021,15:00:00+00
+2554,Clear Spring High School,Washington,6,10/13/2021,15:00:00+00
+2555,Clemens Crossing Elementary School,Howard,3,10/13/2021,15:00:00+00
+2556,Cockeysville Middle School,Baltimore,2,10/13/2021,15:00:00+00
+2557,Columbia Academy Elementary and Middle School,Howard,3,10/13/2021,15:00:00+00
+2558,Crisfield High School,Somerset,15,10/13/2021,15:00:00+00
+2559,Crofton High School,Anne Arundel,16,10/13/2021,15:00:00+00
+2560,Crofton Middle School,Anne Arundel,2,10/13/2021,15:00:00+00
+2561,Deerfield Elementary School,Harford,4,10/13/2021,15:00:00+00
+2562,Diamond Elementary School,Montgomery,3,10/13/2021,15:00:00+00
+2563,Dr. Nathan A. Pitts-Ashburton Elementary/Middle School,Baltimore City,11,10/13/2021,15:00:00+00
+2564,Dr. Thomas L. Higdon Elementary School,Charles,4,10/13/2021,15:00:00+00
+2565,Dublin Elementary School,Harford,4,10/13/2021,15:00:00+00
+2566,Easton Elementary School,Talbot,3,10/13/2021,15:00:00+00
+2567,Elmwood Elementary School,Baltimore,4,10/13/2021,15:00:00+00
+2568,Emma K. Doub Elementary School,Washington,4,10/13/2021,15:00:00+00
+2569,Emmitsburg Elementary School,Frederick,4,10/13/2021,15:00:00+00
+2570,Esperanza Middle School,St. Mary's,15,10/13/2021,15:00:00+00
+2571,Federalsburg Elementary School,Caroline,8,10/13/2021,15:00:00+00
+2572,Forbush School at Hunt Valley (Sheppard Pratt),Baltimore,3,10/13/2021,15:00:00+00
+2573,Fort Hill High School,Allegany,33,10/13/2021,15:00:00+00
+2574,Francis Scott Key,Carroll,16,10/13/2021,15:00:00+00
+2575,Frederick High School,Frederick,4,10/13/2021,15:00:00+00
+2576,Friends School,Baltimore City,40,10/13/2021,15:00:00+00
+2577,Garrison Forrest School,Baltimore,2,10/13/2021,15:00:00+00
+2578,Gilpin Manor Elementary School,Cecil,2,10/13/2021,15:00:00+00
+2579,Good Shepard Catholic School,Cecil,5,10/13/2021,15:00:00+00
+2580,Great Mills High School,St. Mary's,44,10/13/2021,15:00:00+00
+2581,Greenwood Elementary School,Somerset,13,10/13/2021,15:00:00+00
+2582,Halethorpe Elementary School,Baltimore,2,10/13/2021,15:00:00+00
+2583,Hancock Middle-Senior High School,Washington,8,10/13/2021,15:00:00+00
+2584,Harford Technical High School,Harford,4,10/13/2021,15:00:00+00
+2585,Havre de Grace Elementary,Harford,11,10/13/2021,15:00:00+00
+2586,Havre de Grace High School,Harford,2,10/13/2021,15:00:00+00
+2587,Hickory Elementary School,Harford,2,10/13/2021,15:00:00+00
+2588,Homestead Wakefield Elementary School,Harford,6,10/13/2021,15:00:00+00
+2589,Howard High School,Howard,5,10/13/2021,15:00:00+00
+2590,James M. Bennett High School,Wicomico,4,10/13/2021,15:00:00+00
+2591,John Archer School,Harford,2,10/13/2021,15:00:00+00
+2592,Joppatowne Elementary,Harford,4,10/13/2021,15:00:00+00
+2593,Kent Island High School,Queen Anne's,9,10/13/2021,15:00:00+00
+2594,La Plata High School,Charles,4,10/13/2021,15:00:00+00
+2595,Leonardtown High School,St. Mary's,71,10/13/2021,15:00:00+00
+2596,Leonardtown Middle School,St. Mary's,22,10/13/2021,15:00:00+00
+2597,Lexington Park Elementary School,St. Mary's,2,10/13/2021,15:00:00+00
+2598,Logan Elementary,Baltimore,3,10/13/2021,15:00:00+00
+2599,Lothian Elementary,Anne Arundel,3,10/13/2021,15:00:00+00
+2600,Lutherville Laboratory,Baltimore,3,10/13/2021,15:00:00+00
+2601,Margaret Brent Middle School,St. Mary's,83,10/13/2021,15:00:00+00
+2602,Mattawoman Middle School,Charles,5,10/13/2021,15:00:00+00
+2603,McDonogh School,Baltimore,4,10/13/2021,15:00:00+00
+2604,Mechanicsville Elementary School,Carroll,3,10/13/2021,15:00:00+00
+2605,Middletown High School,Frederick,7,10/13/2021,15:00:00+00
+2606,Monarch Global Academy,Anne Arundel,13,10/13/2021,15:00:00+00
+2607,Monocacy Valley Montessori Public Charter School,Frederick,2,10/13/2021,15:00:00+00
+2608,Mother Mary Lange Catholic School,Baltimore City,3,10/13/2021,15:00:00+00
+2609,Mount Airy Middle School,Carroll,2,10/13/2021,15:00:00+00
+2610,Mount View Middle School,Howard,5,10/13/2021,15:00:00+00
+2611,Mountain Ridge High School,Allegany,24,10/13/2021,15:00:00+00
+2612,North Bend Elementary School,Harford,2,10/13/2021,15:00:00+00
+2613,North Caroline High School,Caroline,7,10/13/2021,15:00:00+00
+2614,North Dorchester High School,Dorchester,21,10/13/2021,15:00:00+00
+2615,North Dorchester Middle School,Dorchester,22,10/13/2021,15:00:00+00
+2616,North East Elementary School,Cecil,2,10/13/2021,15:00:00+00
+2617,North East Middle School,Cecil,30,10/13/2021,15:00:00+00
+2618,North Hagerstown High School,Washington,4,10/13/2021,15:00:00+00
+2619,Northeast High School,Anne Arundel,30,10/13/2021,15:00:00+00
+2620,Northeast Middle School,Anne Arundel,19,10/13/2021,15:00:00+00
+2621,Northern Middle School,Washington,20,10/13/2021,15:00:00+00
+2622,Northwest Middle School,Carroll,29,10/13/2021,15:00:00+00
+2623,Oakleigh Elementary School,Baltimore,2,10/13/2021,15:00:00+00
+2624,Oakville Elementary School,St. Mary's,7,10/13/2021,15:00:00+00
+2625,Oakwood Elementary School,Anne Arundel,5,10/13/2021,15:00:00+00
+2626,Old Mill Middle School - North,Anne Arundel,14,10/13/2021,15:00:00+00
+2627,Old Mill Middle School - South,Anne Arundel,20,10/13/2021,15:00:00+00
+2628,Orchard Groves Elementary School,Frederick,15,10/13/2021,15:00:00+00
+2629,Parkside High School,Wicomico,32,10/13/2021,15:00:00+00
+2630,Patuxent Appeal Elementary School,Calvert,2,10/13/2021,15:00:00+00
+2631,Perry Hall Christian School,Baltimore,6,10/13/2021,15:00:00+00
+2632,Perryville High School,Cecil,18,10/13/2021,15:00:00+00
+2633,Phelps Luck Elementary School,Howard,9,10/13/2021,15:00:00+00
+2634,Pimlico Elementary Middle School,Baltimore City,12,10/13/2021,15:00:00+00
+2635,Piney Point Elementary School,St. Mary's,39,10/13/2021,15:00:00+00
+2636,Pocomoke Elementary School,Worcester,7,10/13/2021,15:00:00+00
+2637,Pocomoke High School,Worcester,6,10/13/2021,15:00:00+00
+2638,Point Pleasant Elementary School,Anne Arundel,3,10/13/2021,15:00:00+00
+2639,Poolesville Elementary School,Montgomery,4,10/13/2021,15:00:00+00
+2640,Pretty Boy Elementary,Baltimore,2,10/13/2021,15:00:00+00
+2641,Reservoir High School,Howard,7,10/13/2021,15:00:00+00
+2642,Ridge Elementary,St. Mary's,3,10/13/2021,15:00:00+00
+2643,Rising Sun Middle School,Cecil,7,10/13/2021,15:00:00+00
+2644,Running Brook Elementary School,Howard,4,10/13/2021,15:00:00+00
+2645,Seaside Christian Academy,Worcester,10,10/13/2021,15:00:00+00
+2646,Shiloh Middle School,Carroll,2,10/13/2021,15:00:00+00
+2647,Shiloh Middle School,Carroll,2,10/13/2021,15:00:00+00
+2648,Showell Elementary School,Worcester,19,10/13/2021,15:00:00+00
+2649,Snow Hill Middle School,Worcester,24,10/13/2021,15:00:00+00
+2650,Somerset Intermediate School,Somerset,26,10/13/2021,15:00:00+00
+2651,South River High School,Anne Arundel,2,10/13/2021,15:00:00+00
+2652,Spring Ridge Middle School,St. Mary's,42,10/13/2021,15:00:00+00
+2653,St. Charles High School,Charles,4,10/13/2021,15:00:00+00
+2654,St. Jerome Academy,Prince George's,20,10/13/2021,15:00:00+00
+2655,St. John the Evangelist Catholic School,Baltimore,7,10/13/2021,15:00:00+00
+2656,St. Louis School,Howard,3,10/13/2021,15:00:00+00
+2657,St. Mary's School,Charles,2,10/13/2021,15:00:00+00
+2658,St. Michaels Elementary School,Talbot,2,10/13/2021,15:00:00+00
+2659,St. Michael's School,St. Mary's,2,10/13/2021,15:00:00+00
+2660,St. Ursula Catholic School,Baltimore,36,10/13/2021,15:00:00+00
+2661,Stephen Decatur High School,Wicomico,4,10/13/2021,15:00:00+00
+2662,Sudersville Middle School,Queen Anne's,6,10/13/2021,15:00:00+00
+2663,Sugarloaf Elementary School,Frederick,3,10/13/2021,15:00:00+00
+2664,T.C. Martin Elementary School,Charles,17,10/13/2021,15:00:00+00
+2665,Talbott Spring Elementary School,Howard,4,10/13/2021,15:00:00+00
+2666,Talmudical Academy,Baltimore,37,10/13/2021,15:00:00+00
+2667,The Arrow School of Education,Baltimore,3,10/13/2021,15:00:00+00
+2668,"The Children's Guild, Inc. - Prince George's Campus",Prince George's,9,10/13/2021,15:00:00+00
+2669,The Historic Cherry Hill Elementary and Middle School,Baltimore City,6,10/13/2021,15:00:00+00
+2670,The John Carroll School,Harford,2,10/13/2021,15:00:00+00
+2671,Thomson Estates Elementary School,Cecil,1,10/13/2021,15:00:00+00
+2672,Tuscarora Elementary School,Frederick,6,10/13/2021,15:00:00+00
+2673,Vila Maria School,Baltimore,6,10/13/2021,15:00:00+00
+2674,Walkersville Middle School,Frederick,7,10/13/2021,15:00:00+00
+2675,Washington High School,Somerset,17,10/13/2021,15:00:00+00
+2676,Wellwood International School,Baltimore,5,10/13/2021,15:00:00+00
+2677,West Friendship Elementary School,Howard,3,10/13/2021,15:00:00+00
+2678,West Side Elementary,Allegany,2,10/13/2021,15:00:00+00
+2679,Western Heights Middle,Washington,24,10/13/2021,15:00:00+00
+2680,White Marsh Elementary School,St. Mary's,4,10/13/2021,15:00:00+00
+2681,William Winchester Elementary School,Carroll,2,10/13/2021,15:00:00+00
+2682,Williamsport High School,Washington,31,10/13/2021,15:00:00+00
+2683,Windsor Farm Elementary School,Anne Arundel,2,10/13/2021,15:00:00+00
+2684,Woodbridge Elementary,Baltimore,2,10/13/2021,15:00:00+00
+2685,Woodside Elementary School,Anne Arundel,2,10/13/2021,15:00:00+00
+2686,Yough Glades Elementary School,Garrett,5,10/13/2021,15:00:00+00
+2961,Allegany High School,Allegany,29,10/20/2021,15:00:00+00
+2962,Alphabet Education Inc at Mary B Neal Elementary,Charles,2,10/20/2021,15:00:00+00
+2963,Annapolis Area Christian School - Lower School Annapolis,Anne Arundel,3,10/20/2021,15:00:00+00
+2964,Annapolis Area Christian School - Lower School Severn,Anne Arundel,5,10/20/2021,15:00:00+00
+2965,Arbutus Middle School,Baltimore,3,10/20/2021,15:00:00+00
+2966,Arundel High School,Anne Arundel,2,10/20/2021,15:00:00+00
+2967,Baltimore International Academy - East,Baltimore City,12,10/20/2021,15:00:00+00
+2968,Barstow Elementary School,Calvert,2,10/20/2021,15:00:00+00
+2969,Bel Air Elementary School,Allegany,3,10/20/2021,15:00:00+00
+2970,Benjamin Foulois Creative & Performing Arts Academy,Prince George's,11,10/20/2021,15:00:00+00
+2971,Bodkin Elementary School,Anne Arundel,4,10/20/2021,15:00:00+00
+2972,Braddock Middle School,Allegany,24,10/20/2021,15:00:00+00
+2973,Brunswick Elementary School,Frederick,4,10/20/2021,15:00:00+00
+2974,Buckingham Elementary School,Worcester,11,10/20/2021,15:00:00+00
+2975,Captain Walter Francis Duke Middle School,St. Mary's,14,10/20/2021,15:00:00+00
+2976,Cardinal Shehan School,Baltimore City,6,10/20/2021,15:00:00+00
+2977,Career Center for Technical Education,Allegany,30,10/20/2021,15:00:00+00
+2978,Carter G Woodson Elementary,Somerset,42,10/20/2021,15:00:00+00
+2979,Cash Valley Elementary School,Allegany,2,10/20/2021,15:00:00+00
+2980,Catoctin High School,Frederick,26,10/20/2021,15:00:00+00
+2981,Chesapeake Bay Middle School,Anne Arundel,15,10/20/2021,15:00:00+00
+2982,Chesapeake High School,Anne Arundel,40,10/20/2021,15:00:00+00
+2983,Columbia Academy Elementary and Middle School,Howard,3,10/20/2021,15:00:00+00
+2984,Crisfield High School,Somerset,22,10/20/2021,15:00:00+00
+2985,Crofton High School,Anne Arundel,16,10/20/2021,15:00:00+00
+2986,Deerfield Elementary School,Harford,4,10/20/2021,15:00:00+00
+2987,Diamond Elementary School,Montgomery,3,10/20/2021,15:00:00+00
+2988,Dowell Elementary School,Calvert,3,10/20/2021,15:00:00+00
+2989,Dr. Nathan A. Pitts-Ashburton Elementary/Middle School,Baltimore City,11,10/20/2021,15:00:00+00
+2990,Dr. Thomas L. Higdon Elementary School,Charles,4,10/20/2021,15:00:00+00
+2991,Dublin Elementary School,Harford,4,10/20/2021,15:00:00+00
+2992,Easton Elementary School,Talbot,3,10/20/2021,15:00:00+00
+2993,Edgemere Elementary School,Baltimore,2,10/20/2021,15:00:00+00
+2994,Esperanza Middle School,St. Mary's,33,10/20/2021,15:00:00+00
+2995,Fallston High School,Harford,2,10/20/2021,15:00:00+00
+2996,Father Andrew White SJ School,St. Mary's,3,10/20/2021,15:00:00+00
+2997,Fort Hill High School,Allegany,38,10/20/2021,15:00:00+00
+2998,Frank Hebron Harman Elementary,Anne Arundel,3,10/20/2021,15:00:00+00
+2999,Franklin Square Elementary School,Baltimore City,5,10/20/2021,15:00:00+00
+3000,Friends School,Baltimore City,41,10/20/2021,15:00:00+00
+3001,Garnet Elementary School,Kent,2,10/20/2021,15:00:00+00
+3002,Gilpin Manor Elementary School,Cecil,2,10/20/2021,15:00:00+00
+3003,Great Mills High School,St. Mary's,55,10/20/2021,15:00:00+00
+3004,Greenwood Elementary School,Somerset,15,10/20/2021,15:00:00+00
+3005,Hancock Middle-Senior High School,Washington,8,10/20/2021,15:00:00+00
+3006,Havre de Grace Elementary School,Harford,11,10/20/2021,15:00:00+00
+3007,Hickory Elementary School,Harford,4,10/20/2021,15:00:00+00
+3008,Hollywood Elementary School,St. Mary's,6,10/20/2021,15:00:00+00
+3009,Homestead Wakefield Elementary School,Harford,6,10/20/2021,15:00:00+00
+3010,Honeygo Elementary School,Baltimore,2,10/20/2021,15:00:00+00
+3011,Indian Creek School,Anne Arundel,4,10/20/2021,15:00:00+00
+3012,Joppatowne Elementary,Harford,4,10/20/2021,15:00:00+00
+3013,Kenwood High School,Baltimore,3,10/20/2021,15:00:00+00
+3014,Kings Christian Academy,St. Mary's,3,10/20/2021,15:00:00+00
+3015,La Plata High School,Charles,8,10/20/2021,15:00:00+00
+3016,Leonardtown High School,St. Mary's,72,10/20/2021,15:00:00+00
+3017,Leonardtown Middle School,St. Mary's,22,10/20/2021,15:00:00+00
+3018,Lexington Park Elementary School,St. Mary's,2,10/20/2021,15:00:00+00
+3019,Logan Elementary School,Baltimore,3,10/20/2021,15:00:00+00
+3020,Margaret Brent Middle School,St. Mary's,89,10/20/2021,15:00:00+00
+3021,Mattawoman Middle School,Charles,5,10/20/2021,15:00:00+00
+3022,McDonogh School,Baltimore,4,10/20/2021,15:00:00+00
+3023,Middletown High School,Frederick,8,10/20/2021,15:00:00+00
+3024,Mill Creek Middle School,Calvert,3,10/20/2021,15:00:00+00
+3025,Monarch Global Academy,Anne Arundel,13,10/20/2021,15:00:00+00
+3026,Mother Mary Lange Catholic School,Baltimore City,3,10/20/2021,15:00:00+00
+3027,Mount Airy Middle School,Carroll,2,10/20/2021,15:00:00+00
+3028,Mountain Ridge High School,Allegany,28,10/20/2021,15:00:00+00
+3029,North Bend Elementary School,Harford,2,10/20/2021,15:00:00+00
+3030,North Caroline High School,Caroline,7,10/20/2021,15:00:00+00
+3031,North Dorchester High School,Dorchester,21,10/20/2021,15:00:00+00
+3032,North Dorchester Middle School,Dorchester,24,10/20/2021,15:00:00+00
+3033,North East Elementary School,Cecil,2,10/20/2021,15:00:00+00
+3034,North East Middle School,Cecil,34,10/20/2021,15:00:00+00
+3035,North Hagerstown High School,Washington,9,10/20/2021,15:00:00+00
+3036,Northeast High School,Anne Arundel,30,10/20/2021,15:00:00+00
+3037,Northeast Middle School,Anne Arundel,20,10/20/2021,15:00:00+00
+3038,Northern Middle School,Washington,23,10/20/2021,15:00:00+00
+3039,Northwest Middle School,Carroll,29,10/20/2021,15:00:00+00
+3040,Oakland Mills Middle School,Howard,2,10/20/2021,15:00:00+00
+3041,Oakville Elementary School,St. Mary's,16,10/20/2021,15:00:00+00
+3042,Odenton Elementary School,Anne Arundel,2,10/20/2021,15:00:00+00
+3043,Orchard Groves Elementary School,Frederick,17,10/20/2021,15:00:00+00
+3044,Parkside High School,Wicomico,33,10/20/2021,15:00:00+00
+3045,Parkville Middle School,Baltimore,3,10/20/2021,15:00:00+00
+3046,Patuxent Appeal Elementary School,Calvert,3,10/20/2021,15:00:00+00
+3047,Perryville High School,Cecil,22,10/20/2021,15:00:00+00
+3048,Perryville Middle School,Cecil,7,10/20/2021,15:00:00+00
+3049,Pimlico Elementary Middle School,Baltimore City,12,10/20/2021,15:00:00+00
+3050,Piney Point Elementary School,St. Mary's,42,10/20/2021,15:00:00+00
+3051,Pocomoke High School,Worcester,6,10/20/2021,15:00:00+00
+3052,Poolesville Elementary School,Montgomery,4,10/20/2021,15:00:00+00
+3053,Ridge Elementary School,St. Mary's,3,10/20/2021,15:00:00+00
+3054,Route 40 Elementary School,Garrett,3,10/20/2021,15:00:00+00
+3055,Seaside Christian Academy,Worcester,10,10/20/2021,15:00:00+00
+3056,Shady Spring Elementary School,Baltimore,11,10/20/2021,15:00:00+00
+3057,Shiloh Middle School,Carroll,2,10/20/2021,15:00:00+00
+3058,Shiloh Middle School,Carroll,2,10/20/2021,15:00:00+00
+3059,Showell Elementary School,Worcester,21,10/20/2021,15:00:00+00
+3060,Silver Oak Academy,Carroll,6,10/20/2021,15:00:00+00
+3061,Snow Hill Middle School,Worcester,25,10/20/2021,15:00:00+00
+3062,Somerset Intermediate School,Somerset,29,10/20/2021,15:00:00+00
+3063,South River High School,Anne Arundel,2,10/20/2021,15:00:00+00
+3064,South-Dorchester K-8,Dorchester,3,10/20/2021,15:00:00+00
+3065,Southern High School,Anne Arundel,3,10/20/2021,15:00:00+00
+3066,Southern Middle School,Anne Arundel,16,10/20/2021,15:00:00+00
+3067,Sparrows Point Middle School,Baltimore,2,10/20/2021,15:00:00+00
+3068,Spring Ridge Middle School,St. Mary's,49,10/20/2021,15:00:00+00
+3069,St. Charles High School,Charles,22,10/20/2021,15:00:00+00
+3070,St. Jerome Academy,Prince George's,20,10/20/2021,15:00:00+00
+3071,St. John the Evangelist Catholic School,Baltimore,7,10/20/2021,15:00:00+00
+3072,St. Louis School,Howard,3,10/20/2021,15:00:00+00
+3073,St. Mary's School,Charles,2,10/20/2021,15:00:00+00
+3074,St. Michaels Elementary School,Talbot,2,10/20/2021,15:00:00+00
+3075,St. Michael's School,St. Mary's,2,10/20/2021,15:00:00+00
+3076,St. Ursula Catholic School,Baltimore,39,10/20/2021,15:00:00+00
+3077,Stephen Decatur High School,Worcester,4,10/20/2021,15:00:00+00
+3078,Sudersville Middle School,Queen Anne's,9,10/20/2021,15:00:00+00
+3079,Summit Park Elementary,Baltimore,7,10/20/2021,15:00:00+00
+3080,Sussex Elementary School,Baltimore,2,10/20/2021,15:00:00+00
+3081,Talbott Spring Elementary School,Howard,4,10/20/2021,15:00:00+00
+3082,"The Children's Guild, Inc. - Prince George's Campus",Prince George's,12,10/20/2021,15:00:00+00
+3083,Thomson Estates Elementary School,Cecil,4,10/20/2021,15:00:00+00
+3084,Town Creek Elementary School,St. Mary's,2,10/20/2021,15:00:00+00
+3085,Villa Cresta Elementary School,Baltimore,2,10/20/2021,15:00:00+00
+3086,Villa Maria School,Baltimore,8,10/20/2021,15:00:00+00
+3087,Walkersville Middle School,Frederick,14,10/20/2021,15:00:00+00
+3088,Washington High School,Somerset,18,10/20/2021,15:00:00+00
+3089,West Side Elementary School,Allegany,2,10/20/2021,15:00:00+00
+3090,Western Heights Middle School,Washington,27,10/20/2021,15:00:00+00
+3091,White Marsh Elementary School,St. Mary's,7,10/20/2021,15:00:00+00
+3092,Wiley H. Bates Middle School,Anne Arundel,2,10/20/2021,15:00:00+00
+3093,Williamsport High School,Washington,32,10/20/2021,15:00:00+00
+3094,Winand Elementary School,Baltimore,4,10/20/2021,15:00:00+00
+3095,Windsor Farm Elementary School,Anne Arundel,2,10/20/2021,15:00:00+00
+3096,Woodbridge Elementary School,Baltimore,4,10/20/2021,15:00:00+00
+3097,Yough Glades Elementary School,Garrett,5,10/20/2021,15:00:00+00
