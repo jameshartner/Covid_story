@@ -28,7 +28,7 @@ census_api_key("9f3430d359e022a7620289f71ec793ba915a884f")
 You can also embed plots, for example:
 
 ```{r}
-covid_data_augtonov <- read_csv("data/AugtoNov2021.csv")
+covid_data_augtonov <- read_csv("data/AugtoNov.csv")
 list_of_counties <- covid_data_augtonov %>%
   distinct(CountyReport) %>%
   arrange(CountyReport) %>%
@@ -61,5 +61,40 @@ for (county in list_of_counties) {
     
 }
 ```
+```{r}
+library('lubridate')
 
+#list_of_dates <- update %>%
+ # distinct(ReportDate) %>%
+  #arrange(ReportDate) %>%
+  #as_vector()
+
+for (county in list_of_counties) {
+  
+  county_date<- covid_data_augtonov %>%
+    mutate(ReportDate = mdy(ReportDate)) %>%
+    filter(CountyReport==county) %>%
+    group_by(ReportDate) %>%
+    summarize(
+      count=n(),
+      total_cases=sum(Number_of_Total_Cases)
+    ) %>%
+    arrange(desc(total_cases)) %>%
+    ggplot() +
+    geom_line(aes(x=ReportDate, y=total_cases)) +
+    #scale_x_date(date_breaks = "1 month", date_labels = "%m-%d-%y") +
+    theme( 
+      axis.text.x = element_text(angle = 45,  hjust=1)
+      ) +
+    labs(
+        title= county,
+        y = "Total Cases",
+        x= "Schools"
+      )
+    
+  
+  plot(county_date)
+    
+}
+```
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
